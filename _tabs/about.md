@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# A propos de moi
-
 Hello, je m'appel Jeff. J'ai la quarantaine et j'habite en Belgique.
 
 Je suis technicien dans les télécommunications et internet, je suis également monteur de PC et amateur de bidouillage en tout genre.
