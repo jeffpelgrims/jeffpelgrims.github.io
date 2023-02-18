@@ -19,7 +19,7 @@ timezone: Europe/Brussels
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jeffpelgrims HomeLab Blog                          # the main title
+title: "Jeffpelgrims HomeLab Blog"                          # the main title
 
 tagline: Blog sur mon HomeLab   # it will display as the sub-title
 
