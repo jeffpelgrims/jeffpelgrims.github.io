@@ -2,8 +2,8 @@
 layout: post
 title: "Mon projet de serveur NAS - Partie 1 : La réflexion"
 date: 2023-02-18 17:45:00 +0100
-categories: server
-tags: server nas backup
+categories: serveur
+tags: serveur nas backup
 ---
 
 # Mon serveur NAS - Ma réflexion
