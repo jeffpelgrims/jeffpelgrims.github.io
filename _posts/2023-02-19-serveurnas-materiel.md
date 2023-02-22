@@ -2,7 +2,7 @@
 layout: post
 title: "Mon projet de serveur NAS - Partie 2 : Le matériel"
 date: 2023-02-19 04:40:00 +0100
-categories: server
+categories: serveur
 tags: serveur nas backup
 ---
 
@@ -36,3 +36,9 @@ Ils apportent quelques précisions :
 | Processeur              | Mémoire           | Disque d'amorçage | Stockage                      | Cache       |
 | ----------------------- | ----------------- | ----------------- | ----------------------------- | ----------- |
 | Intel Xeon E5 2360 V4   | 2 x 16 Go ECC     | SSD de 120 Go     | 4x 4To HDD Western Digital    | NVME 256 Go |
+
+### Le processeur
+
+J'ai choisi de prendre une processeur Intel Xeon d'occasion. Ce processeur, sorti en 2016, sera tout à fait à l'aise pour faire tourner ce système.
+
+En effet, les dix coeurs me permettent non seulement de le faire tourner en tant que NAS mais également d'y lancer quelques apps supplémentaires (comme une instance Next Cloud par exemple.)
