@@ -52,3 +52,10 @@ Pour la mémoire j'ai choisi de prendre deux barettes de mémoire Kingston 16 Go
 
 Oui les disques en effet TrueNas sera installé sur deux SSD de 120 Go en mode mirroir. Toujours pour la sécurité si le premier tombe en panne, le second prend le relais.
 
+### Le cache
+
+Afin d'accélerer la lecture et l'écriture de données, un SSD NVMe de 256 Go sera utilisé comme mémoire tampon.
+
+### Le stockage
+
+Dans un premier temps, un pool ZFS de 4 disques de 4 To chacun sera crée. Il donnera un espace libre d'environ 12 To.
