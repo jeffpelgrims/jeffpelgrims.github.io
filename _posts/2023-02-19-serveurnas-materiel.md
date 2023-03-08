@@ -6,8 +6,6 @@ categories: serveur
 tags: serveur nas backup
 ---
 
-# Mon serveur NAS - Le matériel
-
 ## Configuration minimale requise pour TrueNas Scale
 
 Voici ce que IX Systems préconise pour TrueNas Scale :
@@ -59,3 +57,12 @@ Afin d'accélerer la lecture et l'écriture de données, un SSD NVMe de 256 Go s
 ### Le stockage
 
 Dans un premier temps, un pool ZFS de 4 disques de 4 To chacun sera crée. Il donnera un espace libre d'environ 12 To.
+
+### Matériel divers
+
+Le restant des composants :
+
+- Une tour Antec P101 Silencio
+- Une alimentation Corsair de 450W
+- Un refroidisseur de processeur Noctua
+- Une carte-mère X99
