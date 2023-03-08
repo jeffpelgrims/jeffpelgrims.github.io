@@ -17,19 +17,20 @@ Voici ce que IX Systems préconise pour TrueNas Scale :
 | Processeur 64bits avec 2 coeurs   | 8 Go      | SSD de 16 Go      | Deux disques de même capacité |
 
 Ils apportent quelques précisions :
+
 - TrueNas ne nécessite pas réellement deux coeurs, néanmois les processeurs récent en ont tous au moins deux.
 - Pour la mémoire il est bon de noter que :
-    - Il faut ajouter 1 Go de mémoire par disque ajouté au delà de 8 disques
-    - Si l'utilisation du protocol iSCSI est prévu ils recommandent 16 Go de mémoire minimum et 32 Go pour de meilleur performance
-    - Il faut prendre en compte la quantité de mémoire minimum que les apps et VM vont utiliser
-    - Bien que pas obligatoire, l'utilisation de mémoire ECC reste vivement conseillé
+  - Il faut ajouter 1 Go de mémoire par disque ajouté au delà de 8 disques
+  - Si l'utilisation du protocol iSCSI est prévu ils recommandent 16 Go de mémoire minimum et 32 Go pour de meilleur performance
+  - Il faut prendre en compte la quantité de mémoire minimum que les apps et VM vont utiliser
+  - Bien que pas obligatoire, l'utilisation de mémoire ECC reste vivement conseillé
 
 - Au niveau du processeur :
-    - Un processeur moins puissant peut créer des soucis de performance à cause de comment OpenZFS réalise ses vérifications, compresse et (optionellement) crypte les données
-    - Un processeur haute fréquence avec peu de coeurs performe mieux si vous utilisez seulement SMB grâce à Samba
-    - Un processeur avec beaucoup de coeurs convient pour une utilisation de cryptage parallèle ou de la virtualisation
-    - Un processeur "Serveur" est recommandé pour sa puissance et la compatibilité avec les RAM ECC
-    - Un processeur Intel Ivy Bridge ou supérieur est recommandé pour de la virtualisation
+  - Un processeur moins puissant peut créer des soucis de performance à cause de comment OpenZFS réalise ses vérifications, compresse et (optionellement) crypte les données
+  - Un processeur haute fréquence avec peu de coeurs performe mieux si vous utilisez seulement SMB grâce à Samba
+  - Un processeur avec beaucoup de coeurs convient pour une utilisation de cryptage parallèle ou de la virtualisation
+  - Un processeur "Serveur" est recommandé pour sa puissance et la compatibilité avec les RAM ECC
+  - Un processeur Intel Ivy Bridge ou supérieur est recommandé pour de la virtualisation
 
 ## Ma configutation
 
@@ -41,4 +42,13 @@ Ils apportent quelques précisions :
 
 J'ai choisi de prendre une processeur Intel Xeon d'occasion. Ce processeur, sorti en 2016, sera tout à fait à l'aise pour faire tourner ce système.
 
-En effet, les dix coeurs me permettent non seulement de le faire tourner en tant que NAS mais également d'y lancer quelques apps supplémentaires (comme une instance Next Cloud par exemple.)
+En effet, les dix coeurs me permettent non seulement de le faire tourner en tant que NAS mais également d'y lancer quelques apps supplémentaires (comme une instance Next Cloud par exemple).
+
+### La mémoire
+
+Pour la mémoire j'ai choisi de prendre deux barettes de mémoire Kingston 16 Go ECC pour un total de 32 Go. La mémoire ECC me permet d'ajouter une couche de sécurité supplémentaire en cas de corruption de données suite à un incident (comme une coupure de courant par exemple).
+
+### Les disques d'amorçage
+
+Oui les disques en effet TrueNas sera installé sur deux SSD de 120 Go en mode mirroir. Toujours pour la sécurité si le premier tombe en panne, le second prend le relais.
+
