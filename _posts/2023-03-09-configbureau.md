@@ -7,6 +7,7 @@ tags: configuration bureau windows linux
 ---
 
 Voici la configuration bureau pour le printemps 2023.
+
 Pour rappel, cette machine est idéal à la gestion des tâches bureautique quotidienne.
 
 ## Les composants
@@ -19,8 +20,11 @@ Pour rappel, cette machine est idéal à la gestion des tâches bureautique quot
 - SSD : Kingston NV2 NVMe PCIe 4.0, 500 Go
 
 Prix de l'ensemble : 338,66 €
+
 Montage et placement : 100 €
+
 Licence Windows 11 Pro : 2,95 €
+
 Licence Office 2021 : 9,40 €
 
 Possibilité d'installer Linux Mint dans ce cas aucune licence ne sera à payer !
