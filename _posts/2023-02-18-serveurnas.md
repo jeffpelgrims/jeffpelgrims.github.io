@@ -6,8 +6,6 @@ categories: serveur
 tags: serveur nas backup
 ---
 
-# Mon serveur NAS - Ma réflexion
-
 ## Pourquoi un serveur NAS ?
 
 A la maison, nous avons plusieurs besoins en terme d'utilisation de fichiers et de sauvegarde. A savoir la possibilité de sauvegarder nos machines, pouvoir sauvegarder des snapshots quotidien, nos documents et garder plusieurs versions de ces derniers, nos photos. 
