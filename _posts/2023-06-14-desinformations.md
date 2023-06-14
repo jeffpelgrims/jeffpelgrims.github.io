@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Mise à jour du projet NAS"
-date: 2023-06-14 22:30:00 +0100
+date: 2023-06-14 22:30:00 +0200
 categories: news
-tags: serveur nas backup
+tags: serveur nas backup news
 ---
 
 ## Quelques mise à jour
