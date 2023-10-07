@@ -21,7 +21,7 @@ timezone: Europe/Brussels
 
 title: "Le blog IT de Jeff"                          # the main title
 
-tagline: Blog sur mon HomeLab   # it will display as the sub-title
+tagline: Blog IT et d'autres sujets   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.

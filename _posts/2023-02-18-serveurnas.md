@@ -8,21 +8,23 @@ tags: serveur nas backup
 
 ## Pourquoi un serveur NAS ?
 
-A la maison, nous avons plusieurs besoins en terme d'utilisation de fichiers et de sauvegarde. A savoir la possibilité de sauvegarder nos machines, pouvoir sauvegarder des snapshots quotidien, nos documents et garder plusieurs versions de ces derniers, nos photos. 
+A la maison, nous avons plusieurs besoins en terme d'utilisation de fichiers et de sauvegarde. A savoir la possibilité de sauvegarder nos machines, pouvoir sauvegarder des snapshots quotidien, nos documents et garder plusieurs versions de ces derniers, nos photos.
 
 Mais également y avoir accès peux importe où nous nous trouvons.
 
 ## DIY ou solution "clé sur porte" ?
 
 Effectivement deux choix s'offre à moi :
+
 - Monter une machine
 - Utiliser des solutions complète comme les NAS Synology
 
-Le choix est vite fait, je suis un geek bidouilleur et c'est pour nos besoins perso et donc je vais monter une machine pour être utiliée en tant que Serveur NAS. (plus d'information sur la machine dans l'article "Hardware" de ce projet)
+Le choix est vite fait, je suis un geek bidouilleur et c'est pour nos besoins perso et donc je vais monter une machine pour être utilisée en tant que Serveur NAS. (plus d'information sur la machine dans l'article "Hardware" de ce projet)
 
 ## Le logiciel
 
 Pour le logiciel j'ai également plusieurs choix :
+
 - True NAS Core
 - True NAS Scale
 - UnRaid
@@ -55,6 +57,7 @@ Comme je veux quelque chose à moindre coup, je passe mon tour ^^
 Pour les trouver : [TrueNas](https://www.truenas.com/)
 
 La société IX Systems possède deux logiciels de sauvegarde libre et gratuit :
+
 - TrueNas Core
 - TrueNas Scale
 
