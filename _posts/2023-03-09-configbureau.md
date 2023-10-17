@@ -29,4 +29,4 @@ Licence Office 2021 : 9,40 €
 
 Possibilité d'installer Linux Mint dans ce cas aucune licence ne sera à payer !
 
-Plus d'information ? Envoyez moi un mail à l'adresse jeffpelgrims@radapel.be
+Plus d'information ? Envoyez moi un mail à l'adresse jeffpelgrims@radapel.be.

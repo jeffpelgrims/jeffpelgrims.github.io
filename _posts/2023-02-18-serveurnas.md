@@ -8,13 +8,14 @@ tags: serveur nas backup
 
 ## Pourquoi un serveur NAS ?
 
-A la maison, nous avons plusieurs besoins en terme d'utilisation de fichiers et de sauvegarde. A savoir la possibilité de sauvegarder nos machines, pouvoir sauvegarder des snapshots quotidien, nos documents et garder plusieurs versions de ces derniers, nos photos. 
+A la maison, nous avons plusieurs besoins en terme d'utilisation de fichiers et de sauvegarde. A savoir la possibilité de sauvegarder nos machines, pouvoir sauvegarder des snapshots quotidien, nos documents et garder plusieurs versions de ces derniers, nos photos.
 
 Mais également y avoir accès peux importe où nous nous trouvons.
 
 ## DIY ou solution "clé sur porte" ?
 
 Effectivement deux choix s'offre à moi :
+
 - Monter une machine
 - Utiliser des solutions complète comme les NAS Synology
 
@@ -23,6 +24,7 @@ Le choix est vite fait, je suis un geek bidouilleur et c'est pour nos besoins pe
 ## Le logiciel
 
 Pour le logiciel j'ai également plusieurs choix :
+
 - True NAS Core
 - True NAS Scale
 - UnRaid
@@ -55,6 +57,7 @@ Comme je veux quelque chose à moindre coup, je passe mon tour ^^
 Pour les trouver : [TrueNas](https://www.truenas.com/)
 
 La société IX Systems possède deux logiciels de sauvegarde libre et gratuit :
+
 - TrueNas Core
 - TrueNas Scale
 
@@ -62,7 +65,7 @@ Le premier est basé sur FreeBSD, ne demande pas beaucoup de ressource et foncti
 
 Le second est basé sur Debian, demande un peu plus de ressource et fonctionne également avec le système de fichiers ZFS.
 
-Je ne vais pas trop entrer dans les détails téchnique, je réserve cela à une autre partie de ce projet, la principal différence c'est que Scale, basé sur Debian, permet quelques petites chose en plus que Core, comme plus d'application ou encore la création de machines virtuelles.
+Je ne vais pas trop entrer dans les détails téchnique, je réserve cela à une autre partie de ce projet, la principal différence c'est que Scale, basé sur Debian, permet quelques petites chose en plus que Core, comme plus d'application ou encore la création de machines virtuelles. Fonctionnalités que je n'aurai pas besoin car d'autres machines viendront, plus tard, accomplir ces tâches.
 
-Vous l'aurez compris, mon choix va vers TrueNas Scale.
-Il est puissant et permettra de mettre en place tout ce dont j'ai besoin en terme de partage, sauvegarde et virtualisation.
+Vous l'aurez compris, mon choix va vers TrueNas Core.
+Il est puissant et permettra de mettre en place tout ce dont j'ai besoin en terme de partage et sauvegarde.
