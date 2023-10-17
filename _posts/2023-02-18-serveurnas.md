@@ -19,7 +19,7 @@ Effectivement deux choix s'offre à moi :
 - Monter une machine
 - Utiliser des solutions complète comme les NAS Synology
 
-Le choix est vite fait, je suis un geek bidouilleur et c'est pour nos besoins perso et donc je vais monter une machine pour être utiliée en tant que Serveur NAS. (plus d'information sur la machine dans l'article "Hardware" de ce projet)
+Le choix est vite fait, je suis un geek bidouilleur et c'est pour nos besoins perso et donc je vais monter une machine pour être utilisée en tant que Serveur NAS. (plus d'information sur la machine dans l'article "Hardware" de ce projet)
 
 ## Le logiciel
 
@@ -67,5 +67,10 @@ Le second est basé sur Debian, demande un peu plus de ressource et fonctionne �
 
 Je ne vais pas trop entrer dans les détails téchnique, je réserve cela à une autre partie de ce projet, la principal différence c'est que Scale, basé sur Debian, permet quelques petites chose en plus que Core, comme plus d'application ou encore la création de machines virtuelles. Fonctionnalités que je n'aurai pas besoin car d'autres machines viendront, plus tard, accomplir ces tâches.
 
+<<<<<<< HEAD
 Vous l'aurez compris, mon choix va vers TrueNas Core.
 Il est puissant et permettra de mettre en place tout ce dont j'ai besoin en terme de partage et sauvegarde.
+=======
+Vous l'aurez compris, mon choix va vers TrueNas Scale.
+Il est puissant et permettra de mettre en place tout ce dont j'ai besoin en terme de partage, sauvegarde et virtualisation.
+>>>>>>> 12b6e2ddc3c3c4ce463fc57da251ea4db44e4c1f
