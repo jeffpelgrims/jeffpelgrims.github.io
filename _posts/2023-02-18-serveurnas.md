@@ -6,6 +6,8 @@ categories: serveur
 tags: serveur nas backup
 ---
 
+Mise à jour 2024 : Finalement un NAS va arriver à la maison il s'agira du Synology DS1522+ dont une page sera crée pour le présenter.
+
 ## Pourquoi un serveur NAS ?
 
 A la maison, nous avons plusieurs besoins en terme d'utilisation de fichiers et de sauvegarde. A savoir la possibilité de sauvegarder nos machines, pouvoir sauvegarder des snapshots quotidien, nos documents et garder plusieurs versions de ces derniers, nos photos.
