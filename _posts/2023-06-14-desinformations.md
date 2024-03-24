@@ -6,6 +6,8 @@ categories: news
 tags: serveur nas backup news
 ---
 
+Mise à jour 2024 : Finalement un NAS va arriver à la maison il s'agira du Synology DS1522+ dont une page sera crée pour le présenter.
+
 ## Quelques mise à jour
 
 Le projet NAS est en pause pour l'instant. Certains soucis familiaux ont fait que je ne peux commander les pièces manquantes pour le moment.
