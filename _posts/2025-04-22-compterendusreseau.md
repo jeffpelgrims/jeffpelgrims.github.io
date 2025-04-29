@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Compte rendu de 2024/2025"
-date: 2024-04-22 07:00:00 +0200
+date: 2025-04-22 07:00:00 +0200
 categories: news
 tags: windows linux
 ---
