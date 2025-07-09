@@ -108,6 +108,8 @@ comments:
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
+  img:
+    path: /assets/img
   self_host:
     enabled:      # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
